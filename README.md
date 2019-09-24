@@ -5,6 +5,8 @@
 ![push-CityRadio](https://user-images.githubusercontent.com/53632100/65496694-23bc5b80-dee3-11e9-8173-5de6c28085c2.png)
 ![medn-fm](https://user-images.githubusercontent.com/53632100/65497200-05a32b00-dee4-11e9-96dd-ec93de16ea53.png)
 
+![Admin-Room](https://user-images.githubusercontent.com/53632100/65500917-3dad6c80-deea-11e9-8a34-3ad533de923b.png)
+
 
 
 
